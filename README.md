@@ -1,11 +1,9 @@
 ## 👤 About Me:
----
-* 🎓 I'm currently finishing a Bsc in Computer Science and Management at ISCTE
+🎓 I'm currently finishing a Bsc in Computer Science and Management at ISCTE
 
 <br>
 
 ## 🌐 Socials:
----
 <a href="https://www.linkedin.com/in/goncalo-neves19/" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -14,7 +12,6 @@
 <br>
 
 ## 💻 Tech Stack:
----
 <p align="left">
   <img src="https://img.shields.io/badge/JAVA-FFA518?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
